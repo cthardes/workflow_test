@@ -64,7 +64,7 @@ div.Basic-Graphics-Frame {
 div.Basic-Text-Frame {
 	border-style:solid;
 }
-div.scroll-vert_showScroll {
+scroll-vert_showScroll {
 	border-color:#000000;
 	border-width:1px;
 	border-style:solid;
